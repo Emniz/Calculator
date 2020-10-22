@@ -1,0 +1,5 @@
+C:\Users\мв\Source\Repos\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.dll
+C:\Users\мв\Source\Repos\CalcLibrary\CalcLibrary\bin\Debug\CalcLibrary.pdb
+C:\Users\мв\Source\Repos\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.csprojAssemblyReference.cache
+C:\Users\мв\Source\Repos\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.dll
+C:\Users\мв\Source\Repos\CalcLibrary\CalcLibrary\obj\Debug\CalcLibrary.pdb

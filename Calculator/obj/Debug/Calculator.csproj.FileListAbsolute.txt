@@ -1,0 +1,17 @@
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\MainWindow.g.cs
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\App.g.cs
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\bin\Debug\Calculator.exe
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\bin\Debug\Calculator.pdb
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\bin\Debug\CalcLibrary.dll
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\bin\Debug\CalcLibrary.pdb
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\MainWindow.baml
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.exe
+C:\Users\мв\Source\Repos\CalcLibrary\Calculator\obj\Debug\Calculator.pdb
